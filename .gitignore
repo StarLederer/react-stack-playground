@@ -1,0 +1,16 @@
+.cache
+.DS_Store
+.idea
+.nuxt
+.output
+.temp
+*.local
+*.log
+*.vsix
+coverage
+dist
+storybook-static
+node_modules
+result.json
+.svelte-kit
+.eslintcache
